@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/mascot.svg" width="180" alt="">
+  <img src="assets/mascot-03.jpg" width="190" alt="">
 </p>
 
 # 逆向百日计划
@@ -9,6 +9,10 @@
 目标不写在 PPT 里：能自己看汇编、跟控制流，把程序按在地上问出密码。
 
 看不懂就先记下来，记着记着就看懂了。
+
+<p align="center">
+  <img src="assets/mascot-01.jpeg" width="130" alt="">
+</p>
 
 ## 进度
 
@@ -23,7 +27,7 @@
 ```text
 .
 ├── README.md
-├── assets/mascot.svg        # 门面担当
+├── assets/                  # 表情包，写不动了就看两眼
 └── M01--D01/                # 第 1 个月第 1 天
     ├── 题目0001.md          # 当日 Writeup（人话版）
     ├── 题目说明.md          # 原题说明（如有）
@@ -53,6 +57,13 @@
 - [ ] 第 3 个月：复杂样本——C++ 结构、虚表、多线程、网络验证
 - [ ] 最后 10 天：综合题与整体复盘
 
+<p align="center">
+  <img src="assets/mascot-02.gif" width="200" alt="">
+</p>
+
 ---
 
+<p align="center">
+  <img src="assets/mascot-04.gif" width="110" alt="">
+</p>
 <p align="center"><sub>慢慢啃，别停。</sub></p>
