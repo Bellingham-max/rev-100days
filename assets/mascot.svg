@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 230" width="260" height="230" role="img" aria-label="">
+  <defs>
+    <linearGradient id="fur" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#F8BC69"/>
+      <stop offset="1" stop-color="#EC9A3C"/>
+    </linearGradient>
+    <linearGradient id="body" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#F2A94F"/>
+      <stop offset="1" stop-color="#DE8730"/>
+    </linearGradient>
+  </defs>
+
+  <!-- 身体 -->
+  <ellipse cx="120" cy="218" rx="66" ry="40" fill="url(#body)"/>
+  <ellipse cx="120" cy="222" rx="36" ry="26" fill="#FFF6E8"/>
+
+  <!-- 飞机耳：向外压平 -->
+  <path d="M74 88 L6 54 Q-4 49 4 64 L42 106 Z" fill="url(#fur)"/>
+  <path d="M186 88 L254 54 Q264 49 256 64 L218 106 Z" fill="url(#fur)"/>
+  <path d="M66 86 L18 62 Q10 59 16 69 L46 98 Z" fill="#F3A9A0"/>
+  <path d="M194 86 L242 62 Q250 59 244 69 L214 98 Z" fill="#F3A9A0"/>
+
+  <!-- 圆头 -->
+  <circle cx="120" cy="112" r="78" fill="url(#fur)"/>
+
+  <!-- 额头虎斑 -->
+  <path d="M102 46 q4 13 0 24 M120 42 q3 14 0 26 M138 46 q-4 13 0 24"
+        stroke="#D9822B" stroke-width="5" stroke-linecap="round" fill="none"/>
+
+  <!-- 白脸 -->
+  <ellipse cx="120" cy="146" rx="58" ry="46" fill="#FFF8EC"/>
+
+  <!-- 生气的眼睛 -->
+  <path d="M80 100 Q96 94 110 102 Q106 112 94 113 Q83 111 80 100 Z" fill="#2E2318"/>
+  <path d="M150 102 Q164 94 180 100 Q177 111 166 113 Q154 112 150 102 Z" fill="#2E2318"/>
+
+  <!-- 压低的眉 -->
+  <path d="M74 88 L106 96" stroke="#C8742A" stroke-width="6" stroke-linecap="round"/>
+  <path d="M134 96 L166 88" stroke="#C8742A" stroke-width="6" stroke-linecap="round"/>
+
+  <!-- 鼻子 -->
+  <path d="M113 124 Q120 119 127 124 Q120 132 113 124 Z" fill="#E8879B"/>
+
+  <!-- 张着嘴哈气 -->
+  <path d="M103 138 Q120 129 137 138 Q135 159 120 162 Q105 159 103 138 Z" fill="#5A3A2E"/>
+  <ellipse cx="120" cy="156" rx="9" ry="5" fill="#E8879B"/>
+  <path d="M107 139 L114 139 L110.5 147 Z" fill="#FFFFFF"/>
+  <path d="M126 139 L133 139 L129.5 147 Z" fill="#FFFFFF"/>
+
+  <!-- 胡须 -->
+  <g stroke="#D8C7B2" stroke-width="2.5" stroke-linecap="round">
+    <path d="M72 138 L44 130"/>
+    <path d="M72 145 L42 145"/>
+    <path d="M72 152 L46 160"/>
+    <path d="M168 138 L196 130"/>
+    <path d="M168 145 L198 145"/>
+    <path d="M168 152 L194 160"/>
+  </g>
+
+  <!-- 哈出的气 -->
+  <g stroke="#B0BEC5" stroke-width="3" stroke-linecap="round" fill="none" opacity="0.85">
+    <path d="M204 148 q10 3 12 11"/>
+    <path d="M212 136 q14 5 17 15"/>
+    <path d="M212 162 q8 4 9 10"/>
+  </g>
+</svg>
