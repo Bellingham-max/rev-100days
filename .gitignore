@@ -1,0 +1,7 @@
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# 调试临时文件
+*.gdb_history
