@@ -1,6 +1,6 @@
 # 题目0002
 
-题目文件：`./crackme02`（Linux x86-64 ELF，未 strip，与本篇同目录）
+题目文件：`./2`（Linux x86-64 ELF，未 strip，与本篇同目录）
 
 ![image-20261106165745596](images/image-20261106165745596.png)
 

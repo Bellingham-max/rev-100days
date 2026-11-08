@@ -1,6 +1,6 @@
 # 题目0003
 
-题目文件：`./crackme03`（Linux x86-64 ELF，未 strip，与本篇同目录）
+题目文件：`./3`（Linux x86-64 ELF，未 strip，与本篇同目录）
 
 <img src="images/image-20261106171427964.png" alt="image-20261106171427964" style="zoom:67%;" />
 

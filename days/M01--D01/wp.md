@@ -2,7 +2,7 @@
 
 我是一个老白，脑子很老，操作很小......
 
-题目文件：`./license_crackme01`（Linux x86-64 ELF，stripped，与本篇同目录）
+题目文件：`./1`（Linux x86-64 ELF，stripped，与本篇同目录）
 
 ![image-20261104150947307](images/image-20261104150947307.png)
 

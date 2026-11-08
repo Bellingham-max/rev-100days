@@ -17,7 +17,7 @@
 学到了bro
 
 ```
-printf '1W\x88f' | ./crackme05
+printf '1W\x88f' | ./5
 ```
 
 这里有四个字节：
