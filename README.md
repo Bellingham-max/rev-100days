@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/mascot-03.jpg" width="190" alt="">
+  <img src="assets/cover.jpg" width="420" alt="">
 </p>
 
 # 逆向百日计划
