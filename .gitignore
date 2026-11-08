@@ -5,3 +5,10 @@ desktop.ini
 
 # 调试临时文件
 *.gdb_history
+
+# IDA 数据库（本地分析产物，不提交）
+*.id0
+*.id1
+*.id2
+*.nam
+*.til
