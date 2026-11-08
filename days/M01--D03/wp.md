@@ -25,3 +25,9 @@
 ![image-20261106172630092](images/image-20261106172630092.png)
 
 从第 0 比较到第 6。
+
+
+
+拿下！
+
+<img src="C:\Users\Q\AppData\Roaming\Typora\typora-user-images\image-20261108153016447.png" alt="image-20261108153016447" style="zoom: 33%;" />

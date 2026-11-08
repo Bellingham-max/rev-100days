@@ -122,6 +122,10 @@ jz      short loc_40130A  ; 如果是 0 (失败/没输入)，跳转到 loc_40130
 
 
 
+拿下！
+
+<img src="C:\Users\Q\AppData\Roaming\Typora\typora-user-images\image-20261108153016447.png" alt="image-20261108153016447" style="zoom: 33%;" />
+
 
 
 

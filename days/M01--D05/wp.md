@@ -35,3 +35,11 @@ printf '1W\x88f' | ./5
 
 卧槽有点东西
 
+
+
+
+
+拿下！
+
+<img src="C:\Users\Q\AppData\Roaming\Typora\typora-user-images\image-20261108153016447.png" alt="image-20261108153016447" style="zoom: 33%;" />
+

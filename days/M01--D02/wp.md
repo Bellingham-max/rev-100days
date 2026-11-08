@@ -34,3 +34,7 @@ jnz short loc_4011E7     ; 不相等则跳转
 ```
 
 这个真没啥意思，还以为有坑。。。。。
+
+拿下！
+
+<img src="C:\Users\Q\AppData\Roaming\Typora\typora-user-images\image-20261108153016447.png" alt="image-20261108153016447" style="zoom: 33%;" />
